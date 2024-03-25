@@ -1,5 +1,5 @@
 {
-  "name": "cli-00-number-guessing-game",
+  "name": "cli-03-number-guessing-game",
   "version": "1.0.0",
   "description": "This is a Number Guessing Game Typescript and Node.js/inquirer",
   "main": "index.js",
